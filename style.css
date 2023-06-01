@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #edeeee;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1280px;
+  margin: auto;
+}
+
+.image-container {
+  position: relative;
+  max-width: 100%;
+  /* Set a max-width of 100% to make it responsive */
+  height: 0;
+  /* Set height to 0 */
+  padding-bottom: 75%;
+  /* Set padding-bottom to 75% (assuming a 4:3 aspect ratio) */
+  /* Set padding-bottom to 62.5% (assuming a 19:9 aspect ratio) */
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* Set the width of the image to fill the container */
+  height: 100%;
+  /* Set the height of the image to fill the container */
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  height: 70px;
+  display: none;
+  justify-content: center;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.color{
+  height: 50px;
+  width: 50px;
+  margin: 8px;
+
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  border-color: white;
+}
+
+/* .wall-color0 {
+  background: #e8e8e9;
+} */
+
+/* .wall-color1 {
+  background: #b4b4b1;
+} */
+
+/* .wall-color2 {
+  background: #6e6e6e;
+} */
+
+.roof-color0 {
+  background: #93a5aa;
+}
+
+.roof-color1 {
+  background: #828283;
+}
+
+.roof-color2 {
+  background: #4c4c4d;
+}
+
+.door-color0 {
+  background: #f0f0f1;
+}
+
+.door-color1 {
+  background: #9a9a9b;
+}
+
+.door-color2 {
+  background: #7f8791;
+}
+
+.imgBG {
+  z-index: -1;
+}
+
+.btnPDF {
+  position: absolute;
+  left: calc(100%/2 - 40px);
+  bottom: 16px;
+  width: 80px;
+  height: 50px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.pdf-option-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  font-size: 18px;
+}
+
+.pdf-option-box>p {
+  width: 80px;
+}
+
+.color:hover {
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.35);
+  scale: 1.05;
+  transition: 0.07s;
+}

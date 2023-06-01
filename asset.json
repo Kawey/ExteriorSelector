@@ -1,0 +1,275 @@
+{
+  "Tabs": [
+    "Brick",
+    "Stone",
+    "Roof",
+    "Filing",
+    "Gate",
+    "Door",
+    "Windows"
+  ],
+  "Default": {
+    "Brick": {
+      "name": "brick_00",
+      "color": "#e8e8e9",
+      "src": "brick_00.png"
+    },
+    "Stone": {
+      "name": "stone_00",
+      "color": "#93a5aa",
+      "src": "stone_00.png"
+    },
+    "Roof": {
+      "name": "Light Gray",
+      "color": "#cbc6c3",
+      "src": "roof_00.png"
+    },
+    "Filing": {
+      "name": "White",
+      "color": "#f6f2eb",
+      "src": "filing_00.png"
+    },
+    "Gate": {
+      "name": "Beige",
+      "color": "#c8bbae",
+      "src": "gate_00.png"
+    },
+    "Door": {
+      "name": "Wood",
+      "color": "#826140",
+      "src": "door_00.png"
+    },
+    "Windows": {
+      "name": "White",
+      "color": "#fcf7eb",
+      "src": "windows_00.png"
+    }
+  },
+  "Brick": {
+    "brick1": {
+      "name": "brick_01",
+      "color": "#b4b4b1",
+      "src": "brick_01.png"
+    },
+    "brick2": {
+      "name": "brick_02",
+      "color": "#6e6e6e",
+      "src": "brick_02.png"
+    },
+    "brick3": {
+      "name": "brick_03",
+      "color": "#56e6e6e",
+      "src": "brick_03.png"
+    },
+    "brick4": {
+      "name": "brick_04",
+      "color": "#4e6e6e",
+      "src": "brick_04.png"
+    },
+    "brick5": {
+      "name": "brick_05",
+      "color": "#3e6e6e",
+      "src": "brick_05.png"
+    },
+    "brick6": {
+      "name": "brick_06",
+      "color": "#2e6e6e",
+      "src": "brick_06.png"
+    },
+    "brick7": {
+      "name": "brick_07",
+      "color": "#1e6e6e",
+      "src": "brick_07.png"
+    },
+    "brick8": {
+      "name": "brick_08",
+      "color": "#0e6e6e",
+      "src": "brick_08.png"
+    },
+    "brick9": {
+      "name": "brick_09",
+      "color": "#6e5e6e",
+      "src": "brick_09.png"
+    },
+    "brick10": {
+      "name": "brick_10",
+      "color": "#6e4e6e",
+      "src": "brick_10.png"
+    },
+    "brick11": {
+      "name": "brick_11",
+      "color": "#6e3e6e",
+      "src": "brick_11.png"
+    },
+    "brick12": {
+      "name": "brick_12",
+      "color": "#6e3e6e",
+      "src": "brick_12.png"
+    },
+    "brick13": {
+      "name": "brick_13",
+      "color": "#6e3e6e",
+      "src": "brick_13.png"
+    }
+  },
+  "Stone": {
+    "stone1": {
+      "name": "stone_01",
+      "color": "#828283",
+      "src": "stone_01.png"
+    },
+    "stone2": {
+      "name": "stone_02",
+      "color": "#4c4c4d",
+      "src": "stone_02.png"
+    },
+    "stone3": {
+      "name": "stone_03",
+      "color": "#4c4c4d",
+      "src": "stone_03.png"
+    },
+    "stone4": {
+      "name": "stone_04",
+      "color": "#4c4c4d",
+      "src": "stone_04.png"
+    },
+    "stone5": {
+      "name": "stone_05",
+      "color": "#4c4c4d",
+      "src": "stone_05.png"
+    },
+    "stone6": {
+      "name": "stone_06",
+      "color": "#4c4c4d",
+      "src": "stone_06.png"
+    },
+    "stone8": {
+      "name": "stone_08",
+      "color": "#4c4c4d",
+      "src": "stone_08.png"
+    },
+    "stone9": {
+      "name": "stone_09",
+      "color": "#4c4c4d",
+      "src": "stone_09.png"
+    }
+  },
+  "Roof": {
+    "roof1": {
+      "name": "Light Brown",
+      "color": "#a39a95",
+      "src": "roof_01.png"
+    },
+    "roof2": {
+      "name": "Olive",
+      "color": "#6c6b63",
+      "src": "roof_02.png"
+    },
+    "roof3": {
+      "name": "Dark Red",
+      "color": "#6c4e43",
+      "src": "roof_03.png"
+    },
+    "roof4": {
+      "name": "Dark Gray",
+      "color": "#494848",
+      "src": "roof_04.png"
+    }
+  },
+  "Filing": {
+    "filing1": {
+      "name": "Beige",
+      "color": "#e2ddd2",
+      "src": "filing_01.png"
+    },
+    "filing2": {
+      "name": "Olive",
+      "color": "#b4ad8a",
+      "src": "filing_02.png"
+    },
+    "filing3": {
+      "name": "Gray",
+      "color": "#6c6b63",
+      "src": "filing_03.png"
+    },
+    "filing4": {
+      "name": "Dark Gray",
+      "color": "#565656",
+      "src": "filing_04.png"
+    }
+  },
+  "Gate": {
+    "gate1": {
+      "name": "White",
+      "color": "#d9d9d9",
+      "src": "gate_01.png"
+    },
+    "gate2": {
+      "name": "Light Gray",
+      "color": "#b0aeaa",
+      "src": "gate_02.png"
+    },
+    "gate3": {
+      "name": "Gray",
+      "color": "#807d77",
+      "src": "gate_03.png"
+    },
+    "gate4": {
+      "name": "Blue",
+      "color": "#5b5c5f",
+      "src": "gate_04.png"
+    },
+    "gate5": {
+      "name": "Olive",
+      "color": "#5f5848",
+      "src": "gate_05.png"
+    },
+    "gate6": {
+      "name": "Black",
+      "color": "#1d1d1d",
+      "src": "gate_06.png"
+    }
+  },
+  "Door": {
+    "door1": {
+      "name": "White",
+      "color": "#cfcfcf",
+      "src": "door_01.png"
+    },
+    "door2": {
+      "name": "Gray",
+      "color": "#3a3a3a",
+      "src": "door_02.png"
+    },
+    "door3": {
+      "name": "Black",
+      "color": "#0f0f0f",
+      "src": "door_03.png"
+    }
+  },
+  "Windows": {
+    "windows1": {
+      "name": "Beige",
+      "color": "#dfdad1",
+      "src": "windows_01.png"
+    },
+    "windows2": {
+      "name": "Olive",
+      "color": "#9b947f",
+      "src": "windows_02.png"
+    },
+    "windows3": {
+      "name": "Dark Olive",
+      "color": "#37342e",
+      "src": "windows_03.png"
+    },
+    "windows4": {
+      "name": "Black",
+      "color": "#0f0f0f",
+      "src": "windows_04.png"
+    }
+  },
+
+
+  "BG": "bg.jpg"
+}
